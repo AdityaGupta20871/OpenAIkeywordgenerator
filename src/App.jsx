@@ -52,7 +52,7 @@ const App = () => {
     setIsOpen(false);
   };
   return (
-    <Box bgImage='public/images/Default_Character_Sheet_complex_3d_render_ultra_detailed_of_a_0_e3d208a1-6dfe-4c1b-84c9-cb8688363761_1.jpg' bgSize='cover' 
+    <Box bgImage='./public/images/Default_Character_Sheet_complex_3d_render_ultra_detailed_of_a_0_e3d208a1-6dfe-4c1b-84c9-cb8688363761_1.jpg' bgSize='cover' 
    color='whiteAlpha.900' w='100vw' h='100vh' >  
       <Container maxW='xl' centerContent>
       <Header />

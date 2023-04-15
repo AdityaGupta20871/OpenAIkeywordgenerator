@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <Box>
         <Flex paddingTop={10} justifyContent='center' alignItems='center'>
-            <Image src='public/images/openai.png' />
+            <Image src='./public/images/openai.png' />
             <Text>
                 Powered by open AI
             </Text>
